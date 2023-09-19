@@ -2,6 +2,10 @@
 
 ![App Screenshot](./static/images/BMIapp.png)
 
+## Video demo
+
+https://www.youtube.com/watch?v=ArNzlLLgvrY
+
 ## Description
 
 The BIM Calculator App is a simple and user-friendly tool that allows users to calculate their Body Mass Index (BMI). BMI is a measure of body fat based on height and weight. It can be used to assess whether an individual's weight is within a healthy range.
