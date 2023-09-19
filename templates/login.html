@@ -1,0 +1,14 @@
+{% extends "layout.html" %} {% block content %}
+<div class="form-container">
+  <form action="/login" method="post" class="log-form">
+    <img src="../static/images/logo.svg" class="logo" alt="logo" width="50" />
+    <input class="log-input" id="username" name="username" placeholder="Username" type="text" />
+    <input class="log-input" id="password" name="password" placeholder="Password" type="password" />
+    <button class="log-btn" type="submit">Log In</button>
+    <span class="description">
+      Don't have an account yet? <br />
+      <a href="/register">Register now</a>
+    </span>
+  </form>
+</div>
+{% endblock %}
