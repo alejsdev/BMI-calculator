@@ -51,6 +51,3 @@ This app provides an easy way to calculate your BMI, understand the results, and
 ## Inspiration
 The design for the BIM Calculator App UI draws its inspiration from the [Frontend Mentor Body Mass Index Calculator Challenge](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T), chosen to simulate a real-life scenario and enhance the user experience.  
 
-## Contact
-
-If you have any questions or feedback, feel free to contact me at [alejsdev@email.com].
